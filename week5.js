@@ -3,7 +3,7 @@
 class Student {
     
     constructor(names){
-        this.names = names
+        this.names = names // I know how to make another class, but it broke the menu when i tried to use it :/
     }
 }
 
